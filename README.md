@@ -1,7 +1,7 @@
 # EECE798K---Final-Project
 By Lama Hasbini and Tamara Al-Sadek
 
-To reproduce these results, you would need to download or clone the repository before running the notebooks for clustering and classification. All required features are available in the 'features' folder, but you may need to tweak the directories in the code cells to access the copy you downloaded.
+To reproduce these results, you would need to download or clone the repository before running the notebooks for clustering and classification. All required features are available in the 'features' folder, but you may need to tweak the directories in the code cells to access the copies you downloaded.
 
 This repository contains the following:
 - `features/spindle_summaries` and `features/swa_reports`: The objective EEG-derived metrics used for clustering.
